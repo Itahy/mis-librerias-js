@@ -40,11 +40,18 @@ La librería impuestos.js está diseñada para facilitar el cálculo de obligaci
 
 	✅ Cálculo de tenencia vehicular: Determina el monto de tenencia considerando el valor y año del automóvil.
 
+
+
 ¿Qué problema resuelve?
+
 impuestos resuelve la necesidad de contar con una solución unificada, reutilizable y confiable para operaciones fiscales comunes, especialmente útil en sistemas contables, formularios de gobierno, aplicaciones financieras o simuladores de trámites.
 
+Instalación
+Puedes incluir la librería en tu proyecto HTML de dos formas:
 
-
+🔹 Opción 1: Descarga directa
+Guarda el archivo impuestos.js en tu carpeta /js/ y luego inclúyelo así:
+<script src="libreria/impuestos.js"></script>
 
 
 
