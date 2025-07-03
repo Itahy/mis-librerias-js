@@ -1,5 +1,12 @@
 # mis-librerias-js
-OBJETIVO: Crear una librería JavaScript funcional (sin componentes visuales) y documentar su implementación en un repositorio de GitHub.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+OBJETIVO:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Crear una librería JavaScript funcional (sin componentes visuales) y documentar su implementación en un repositorio de GitHub.
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
 								
 					TECNOLÓGICO NACIONAL DE MEXICO
 	
@@ -26,9 +33,11 @@ OBJETIVO: Crear una librería JavaScript funcional (sin componentes visuales) y 
 NOMBRE DE LA LIBRERIA:
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 impuestos.js
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 DESCRIPCIÓN:
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 La librería impuestos.js está diseñada para facilitar el cálculo de obligaciones fiscales y la generación de claves seguras en aplicaciones web o sistemas administrativos. Esta librería automatiza y simplifica operaciones comunes relacionadas con impuestos y seguridad, como:
 
 Cálculo de IVA: Obtiene el monto del impuesto al valor agregado y el total con IVA incluido.
@@ -41,6 +50,7 @@ Cálculo de tenencia vehicular: Determina el monto de tenencia considerando el v
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ¿QUÉ PROBLEMA RESUELVE?
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 impuestos resuelve la necesidad de contar con una solución unificada, reutilizable y confiable para operaciones fiscales comunes, especialmente útil en sistemas contables, formularios de gobierno, aplicaciones financieras o simuladores de trámites.
 
 INSTALACIÓN: 
