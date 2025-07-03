@@ -24,11 +24,11 @@ OBJETIVO: Crear una librería JavaScript funcional (sin componentes visuales) y 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 NOMBRE DE LA LIBRERIA:
-
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
 impuestos.js
-
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
 DESCRIPCIÓN:
-
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
 La librería impuestos.js está diseñada para facilitar el cálculo de obligaciones fiscales y la generación de claves seguras en aplicaciones web o sistemas administrativos. Esta librería automatiza y simplifica operaciones comunes relacionadas con impuestos y seguridad, como:
 
 Cálculo de IVA: Obtiene el monto del impuesto al valor agregado y el total con IVA incluido.
@@ -38,9 +38,9 @@ Cálculo de impuesto predial: Calcula el pago de predial con base en el valor ca
 Cálculo de tenencia vehicular: Determina el monto de tenencia considerando el valor y año del automóvil.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ¿QUÉ PROBLEMA RESUELVE?
-
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
 impuestos resuelve la necesidad de contar con una solución unificada, reutilizable y confiable para operaciones fiscales comunes, especialmente útil en sistemas contables, formularios de gobierno, aplicaciones financieras o simuladores de trámites.
 
 INSTALACIÓN: 
@@ -52,8 +52,8 @@ Guarda el archivo impuestos.js en tu carpeta /js/ y luego inclúyelo así:
 <script src="libreria/impuestos.js"></script>
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Uso. 
-
+USO 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
 	<!DOCTYPE html>
 	<html lang="es">
 	<head>
@@ -103,6 +103,7 @@ Uso.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 CAPTURAS DE PANTALLA:
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ![image](https://github.com/user-attachments/assets/03d6e7f8-1b8a-4710-977b-bcfc24f80887)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ![image](https://github.com/user-attachments/assets/adcb477e-08af-4557-9618-092789f838fa)
