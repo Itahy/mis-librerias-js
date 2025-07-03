@@ -96,3 +96,6 @@ Uso.
 	<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
 	</body>
 	</html>
+
+![image](https://github.com/user-attachments/assets/03d6e7f8-1b8a-4710-977b-bcfc24f80887)
+
