@@ -24,19 +24,11 @@ Objetivo: Crear una librería JavaScript funcional (sin componentes visuales) y 
 
 
 
+Nombre de la librería: impuestos.js
 
+Breve descripción:
 
-
-
-
-
-
-
-	Nombre de la librería: impuestos.js
-
-	Breve descripción:
-
-	La librería impuestos.js está diseñada para facilitar el cálculo de obligaciones fiscales y la generación de claves seguras en aplicaciones web o sistemas administrativos. Esta librería automatiza y simplifica operaciones comunes relacionadas con impuestos y seguridad, como:
+La librería impuestos.js está diseñada para facilitar el cálculo de obligaciones fiscales y la generación de claves seguras en aplicaciones web o sistemas administrativos. Esta librería automatiza y simplifica operaciones comunes relacionadas con impuestos y seguridad, como:
 
 	✅ Cálculo de IVA: Obtiene el monto del impuesto al valor agregado y el total con IVA incluido.
 
@@ -48,8 +40,8 @@ Objetivo: Crear una librería JavaScript funcional (sin componentes visuales) y 
 
 	✅ Cálculo de tenencia vehicular: Determina el monto de tenencia considerando el valor y año del automóvil.
 
-	¿Qué problema resuelve?
-	impuestos resuelve la necesidad de contar con una solución unificada, reutilizable y confiable para operaciones fiscales comunes, especialmente útil en sistemas contables, formularios de gobierno, aplicaciones financieras o simuladores de trámites.
+¿Qué problema resuelve?
+impuestos resuelve la necesidad de contar con una solución unificada, reutilizable y confiable para operaciones fiscales comunes, especialmente útil en sistemas contables, formularios de gobierno, aplicaciones financieras o simuladores de trámites.
 
 
 
