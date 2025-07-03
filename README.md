@@ -1,5 +1,5 @@
 # mis-librerias-js
-Objetivo: Crear una librería JavaScript funcional (sin componentes visuales) y documentar su implementación en un repositorio de GitHub.
+OBJETIVO: Crear una librería JavaScript funcional (sin componentes visuales) y documentar su implementación en un repositorio de GitHub.
 								
 					TECNOLÓGICO NACIONAL DE MEXICO
 	
@@ -39,7 +39,7 @@ Cálculo de tenencia vehicular: Determina el monto de tenencia considerando el v
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-¿Qué problema resuelve?
+¿QUÉ PROBLEMA RESUELVE?
 
 impuestos resuelve la necesidad de contar con una solución unificada, reutilizable y confiable para operaciones fiscales comunes, especialmente útil en sistemas contables, formularios de gobierno, aplicaciones financieras o simuladores de trámites.
 
@@ -101,7 +101,7 @@ Uso.
 	</html>
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
-	CAPTURAS DE PANTALLA:
+CAPTURAS DE PANTALLA:
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ![image](https://github.com/user-attachments/assets/03d6e7f8-1b8a-4710-977b-bcfc24f80887)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
