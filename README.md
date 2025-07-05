@@ -173,7 +173,7 @@ USO CON OPCIÓN DOS:
 	</html>
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-![image](https://github.com/user-attachments/assets/a7cbaf1b-1ea7-4fb2-b880-6632fcb42c0b)
+![image](https://github.com/user-attachments/assets/6ff6b10c-1927-4c03-a387-5cbe10cfa3a2)
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Funcionalidad con: https://cdn.jsdelivr.net/gh/Itahy/mis-librerias.js/librerias/impuestosLib.js
