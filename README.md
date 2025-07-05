@@ -179,7 +179,7 @@ USO CON OPCIÓN DOS:
 Funcionalidad con: https://cdn.jsdelivr.net/gh/Itahy/mis-librerias.js/librerias/impuestosLib.js
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-![image](https://github.com/user-attachments/assets/2b68d0eb-0e9c-4513-aadf-a8c448716da9)
+![image](https://github.com/user-attachments/assets/f7b1f9b5-4e85-4f25-b710-d2d9c61f1267)
 
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
