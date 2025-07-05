@@ -62,7 +62,7 @@ Guarda el archivo impuestos.js en tu carpeta /js/ y luego inclúyelo así:
 <script src="libreria/impuestos.js"></script>
 
 🔹 Opción 2: Desde un CDN personalizado (si la subes a un repositorio o servidor)
-<script src="https://cdn.jsdelivr.net/gh/Itahy/mis-librerias.js/librerias/impuestosLib.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/Itahy/mis-librerias.js/librerias/impuestosLib.js"> </script>
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 USO CON OPCIÓN UNO:
